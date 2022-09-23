@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jip-xd
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning Data Science
